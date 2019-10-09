@@ -10,6 +10,8 @@ using System.Web.Http;
 using System.Web.Http.Description;
 using DB_TECres;
 
+//
+
 namespace TECres.Controllers
 {
     public class VENDEDORController : ApiController
